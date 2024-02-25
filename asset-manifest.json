@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.c55bdca2.css",
-    "main.js": "/my-portfolio/static/js/main.fead5eee.js",
-    "static/js/592.6647c214.chunk.js": "/my-portfolio/static/js/592.6647c214.chunk.js",
-    "static/media/Heroimage.jpg": "/my-portfolio/static/media/Heroimage.66f216f1a9394266eb41.jpg",
-    "static/media/cute-monster.jpg": "/my-portfolio/static/media/cute-monster.b0ed37b1a1b9b85df41a.jpg",
-    "static/media/robot.jpg": "/my-portfolio/static/media/robot.c8ef2f9428e75e4ea412.jpg",
-    "static/media/natours.jpg": "/my-portfolio/static/media/natours.14abaf5bc4ab439a61b3.jpg",
-    "static/media/DU.jpg": "/my-portfolio/static/media/DU.26195a0c7013a174a4ec.jpg",
-    "static/media/brain.jpg": "/my-portfolio/static/media/brain.f7affe207a8175f443d4.jpg",
-    "static/media/YIU.jpg": "/my-portfolio/static/media/YIU.db6145b694a28d511580.jpg",
-    "static/media/KMD.jpg": "/my-portfolio/static/media/KMD.8dfd7ec99dd02260c500.jpg",
-    "static/media/crwnlogo.jpg": "/my-portfolio/static/media/crwnlogo.4412be52df596f13a32d.jpg",
-    "index.html": "/my-portfolio/index.html",
-    "main.c55bdca2.css.map": "/my-portfolio/static/css/main.c55bdca2.css.map",
-    "main.fead5eee.js.map": "/my-portfolio/static/js/main.fead5eee.js.map",
-    "592.6647c214.chunk.js.map": "/my-portfolio/static/js/592.6647c214.chunk.js.map"
+    "main.css": "/static/css/main.c55bdca2.css",
+    "main.js": "/static/js/main.c813df2b.js",
+    "static/js/592.6647c214.chunk.js": "/static/js/592.6647c214.chunk.js",
+    "static/media/Heroimage.jpg": "/static/media/Heroimage.66f216f1a9394266eb41.jpg",
+    "static/media/cute-monster.jpg": "/static/media/cute-monster.b0ed37b1a1b9b85df41a.jpg",
+    "static/media/robot.jpg": "/static/media/robot.c8ef2f9428e75e4ea412.jpg",
+    "static/media/natours.jpg": "/static/media/natours.14abaf5bc4ab439a61b3.jpg",
+    "static/media/DU.jpg": "/static/media/DU.26195a0c7013a174a4ec.jpg",
+    "static/media/brain.jpg": "/static/media/brain.f7affe207a8175f443d4.jpg",
+    "static/media/YIU.jpg": "/static/media/YIU.db6145b694a28d511580.jpg",
+    "static/media/KMD.jpg": "/static/media/KMD.8dfd7ec99dd02260c500.jpg",
+    "static/media/crwnlogo.jpg": "/static/media/crwnlogo.4412be52df596f13a32d.jpg",
+    "index.html": "/index.html",
+    "main.c55bdca2.css.map": "/static/css/main.c55bdca2.css.map",
+    "main.c813df2b.js.map": "/static/js/main.c813df2b.js.map",
+    "592.6647c214.chunk.js.map": "/static/js/592.6647c214.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c55bdca2.css",
-    "static/js/main.fead5eee.js"
+    "static/js/main.c813df2b.js"
   ]
 }
