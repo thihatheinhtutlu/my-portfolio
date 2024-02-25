@@ -25,6 +25,7 @@ const HeroContainer = styled.div`
 `;
 
 const HeroBg = styled.div`
+    z-index: -1;
     position: absolute;
     display: flex;
     justify-content: end;
