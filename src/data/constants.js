@@ -22,7 +22,7 @@ export const Bio = {
       "Hi, I am self-taught front-end web developer. I am a constantly learning individual. I taught myself English and Computer skills when I was young. Now, using those skills, I’m able to learn every-thing I want through the internet. I started learning web programming from the beginning of 2023 and still learning right now and will still be learning in the future for the web programming field is highly progressive.",
     github: "https://github.com/thihatheinhtutlu",
     resume:
-      "https://drive.google.com/file/d/1sXJ5jtV3IDKtJY5wsS06sLisXlYX3x6f/view?usp=drive_link",
+      "https://drive.google.com/file/d/1kdLueXzlp-HttH6qOgshZo9CUIEx7FhV/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/thiha-theinhtutlu-4b782428b/",
     insta: "https://www.instagram.com/wreck_thomas/?hl=en",
     facebook: "https://www.facebook.com/profile.php?id=100088176555910"
