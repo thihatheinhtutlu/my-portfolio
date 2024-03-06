@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.c55bdca2.css",
-    "main.js": "/static/js/main.ee193f54.js",
+    "main.js": "/static/js/main.4db5a2a4.js",
     "static/js/592.6647c214.chunk.js": "/static/js/592.6647c214.chunk.js",
     "static/media/cute-monster.jpg": "/static/media/cute-monster.b0ed37b1a1b9b85df41a.jpg",
     "static/media/robot.jpg": "/static/media/robot.c8ef2f9428e75e4ea412.jpg",
     "static/media/natours.jpg": "/static/media/natours.14abaf5bc4ab439a61b3.jpg",
+    "static/media/ai.jpg": "/static/media/ai.202aaed97704066054a8.jpg",
     "static/media/DU.jpg": "/static/media/DU.26195a0c7013a174a4ec.jpg",
     "static/media/mypic.jpg": "/static/media/mypic.6b3027c3f065bf4d66d9.jpg",
     "static/media/brain.jpg": "/static/media/brain.f7affe207a8175f443d4.jpg",
@@ -14,11 +15,11 @@
     "static/media/crwnlogo.jpg": "/static/media/crwnlogo.4412be52df596f13a32d.jpg",
     "index.html": "/index.html",
     "main.c55bdca2.css.map": "/static/css/main.c55bdca2.css.map",
-    "main.ee193f54.js.map": "/static/js/main.ee193f54.js.map",
+    "main.4db5a2a4.js.map": "/static/js/main.4db5a2a4.js.map",
     "592.6647c214.chunk.js.map": "/static/js/592.6647c214.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c55bdca2.css",
-    "static/js/main.ee193f54.js"
+    "static/js/main.4db5a2a4.js"
   ]
 }
