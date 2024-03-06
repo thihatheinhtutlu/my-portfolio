@@ -8,6 +8,7 @@ import DULogo from '../assets/images/DU.jpg'
 import KMDLogo from '../assets/images/KMD.jpg'
 import YIULogo from '../assets/images/YIU.jpg'
 import UDEMYLogo from '../assets/images/UDEMY.jpg'
+import AILogo from '../assets/images/ai.jpg'
 
 
 export const Bio = {
@@ -166,6 +167,22 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/thihatheinhtutlu/crwn-clothing",
       webapp: "https://peppy-salmiakki-92ca2b.netlify.app/",
+    },
+    {
+      id: 3,
+      title: "GPT3 AI",
+      date: "Feb 2024 - Feb 2024",
+      description:
+        "Modern UI/UX project from Figma design",
+      image: AILogo,
+      tags: [
+        "React Js",
+        "Redux",
+        "SCSS",
+        "HTML",
+      ],
+      category: "web app",
+      github: "https://github.com/thihatheinhtutlu/gpt3_thomas",
     },
     {
       id: 9,
