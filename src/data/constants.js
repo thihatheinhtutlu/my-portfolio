@@ -9,6 +9,7 @@ import KMDLogo from '../assets/images/KMD.jpg'
 import YIULogo from '../assets/images/YIU.jpg'
 import UDEMYLogo from '../assets/images/UDEMY.jpg'
 import AILogo from '../assets/images/ai.jpg'
+import FitnessLogo from '../assets/images/fitness.jpeg';
 
 
 export const Bio = {
@@ -183,6 +184,23 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/thihatheinhtutlu/gpt3_thomas",
+    },
+    {
+      id: 4,
+      title: "Fitness Website",
+      date: "March 2024 - March 2024",
+      description:
+        "A real life Fitness Website using TypeScript",
+      image: FitnessLogo,
+      tags: [
+        "React Js",
+        "Redux",
+        "SCSS",
+        "TypeScript",
+        "HTML",
+      ],
+      category: "web app",
+      github: "https://github.com/thihatheinhtutlu/EVOGYM",
     },
     {
       id: 9,
